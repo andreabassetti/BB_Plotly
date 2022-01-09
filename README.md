@@ -8,4 +8,6 @@ The purpose of this project is to help Roza complete a partially completed dashb
 - Deliverable 3: Create a Gauge Chart
 - Deliverable 4: Customize the Dashboard
 
+The webpage shown below can be accessed here: https://andreabassetti.github.io/BB_Plotly/
+
 ![webpage.png](https://github.com/andreabassetti/BB_Plotly/blob/main/Module%20Practice/webpage.png)
